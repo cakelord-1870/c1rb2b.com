@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://c1rb2b.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://c1rb2b.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://c1rb2b.com/collections/hygiene.atom"/>
+  <title>C1RB2B</title>
+  <updated>2021-05-03T09:57:34-07:00</updated>
+  <author>
+    <name>C1RB2B</name>
+  </author>
+  <entry>
+    <id>https://c1rb2b.com/products/154227179564</id>
+    <published>2021-05-03T09:57:34-07:00</published>
+    <updated>2021-05-03T09:57:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://c1rb2b.com/products/daisy-douche-refill-pack-12-pieces"/>
+    <title>Daisy Douche Refill Pack (12 pieces)</title>
+    <s:type>Toy</s:type>
+    <s:vendor>Boneyard Toys</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2677/3342/products/12_daisy_1.jpg?v=1615410215"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boneyard Toys<br>
+        <strong>Type: </strong>Toy<br>
+        <strong>Price: </strong>
+            167.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<li><span>Fits Most Standard Size Water Bottles</span></li>
+<li><span>Includes Sanitary Storage and Travel Cap</span></li>
+<li><span>No Leak design</span></li>
+<li><span>2.5mm(6.35cm) Plastic Nozzle</span></li>
+</div>
+<div><br></div>
+<div>Go green and reuse your water bottles for another purpose! Daisy makes women's douching discrete and hassle-free, both vaginally and anally. The one piece nozzle simply screws onto most standard water bottles. This makes the Daisy perfect for on the go freshness.  Just put hygienic cap on and carry in your purse or pocket.  <br>Daisy also allows the user to mix her own formula of douche to obtain her accurate ph balance etc.<br>Daisy, easy to use, easy to clean, environmentally friendly. A must-have for women on the go that want to be fresh.</div>
+<div></div>
+<div>Refill Packs for Daisy POS Kit, Packages of 12.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boneyard toys</s:tag>
+    <s:tag>Douche</s:tag>
+    <s:variant>
+      <id>https://c1rb2b.com/products/154227179564</id>
+      <title>Default Title</title>
+      <s:price currency="USD">167.95</s:price>
+      <s:sku>BY0403-12</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://c1rb2b.com/products/61935747116</id>
+    <published>2019-01-07T17:15:14-08:00</published>
+    <updated>2019-01-07T17:15:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://c1rb2b.com/products/the-skwert-daisy"/>
+    <title>Daisy Water Bottle Douche</title>
+    <s:type>Toy</s:type>
+    <s:vendor>Boneyard Toys</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2677/3342/products/daisy_store_7inches_copy_3.jpg?v=1615410227"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boneyard Toys<br>
+        <strong>Type: </strong>Toy<br>
+        <strong>Price: </strong>
+            13.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="editable-rich-text__paragraph___1x1Qm">
+<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr">
+<meta charset="UTF-8">
+<p><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 1.4em;">Go green and reuse your water bottles for another purpose! Daisy makes women's douching discrete and hassle-free, both vaginally and anally. The one piece nozzle simply screws onto most standard water bottles. This makes the Daisy perfect for on the go freshness.  Just put hygienic cap on and carry in your purse or pocket.  </span><br></p>
+<p>Daisy also allows the user to mix her own formula of douche to obtain her accurate ph balance etc.<br>Daisy, easy to use, easy to clean, environmentally friendly. A must-have for women on the go that want to be fresh.</p>
+</div>
+</div>
+<div class="editable-rich-text__paragraph___1x1Qm">
+<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr">
+<span class=""></span><br>
+</div>
+<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span class=""></span></div>
+<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr">
+<li><span>Fits Most Standard Size Water Bottles</span></li>
+<li><span>Includes Sanitary Storage and Travel Cap</span></li>
+<li><span>No Leak design</span></li>
+<li><span>2.5mm(6.35cm) Plastic Nozzle</span></li>
+<br>
+<p> </p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boneyard toys</s:tag>
+    <s:tag>Douche</s:tag>
+    <s:tag>new</s:tag>
+    <s:variant>
+      <id>https://c1rb2b.com/products/61935747116</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>BY0403</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://c1rb2b.com/products/61935583276</id>
+    <published>2018-11-23T16:05:14-08:00</published>
+    <updated>2018-11-23T16:05:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://c1rb2b.com/products/the-skwert-ds"/>
+    <title>Skwert Water Bottle Douche</title>
+    <s:type>Hygiene</s:type>
+    <s:vendor>Boneyard Toys</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2677/3342/products/Skwert.png?v=1615410259"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boneyard Toys<br>
+        <strong>Type: </strong>Hygiene<br>
+        <strong>Price: </strong>
+            13.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<li><span>Fits Most Standard Size Water Bottles</span></li>
+<li><span>Includes Sanitary Storage and Travel Cap</span></li>
+<li><span>No Leak design</span></li>
+<li><span>2.5mm(6.35cm) Plastic Nozzle</span></li>
+<p> </p>
+<p><span>This anytime-anywhere enema adapter is specifically made for those encounters when you don't have time to fully prepare. The one piece threaded plastic nozzle fit most standard size water bottles. This must-have device is designed to fit in your pocket, bag, or backpack, for an on-the-go clean for those inopportune moments that sometimes pop up. Forget finding a shower, just find a bottle of water, screw it on, and you're ready to go!</span></p>
+<p><span>Ideal for travel, on-the-go, and everyday use. You can be assured the Skwert will get you through any unexpected opportunities time and time again. </span></p>
+<p><span>The 2.5" nozzle is made of smooth plastic with a large thread fitting for a non-leak fit. it has a comfortable contour tip with a one hole design. The Skwert also come with a sanitary storage/travel cap.</span></p>
+<p><span>This product is safe with all lubricants, completely hypoallergenic, non-irritating and compatible with sensitive skin. </span><span><br></span><span><br></span><span>Care Instructions:</span><span><br></span><span>Wash thoroughly with mild soap and warm water or toy cleaner. Pat dry and allow product to completely air dry. Store separately.</span></p>
+<p>Weight:<span> </span>0.2<span> </span>lbs</p>
+<p>Package Dimensions:<span> 7.5" x 3" x 1.5"</span></p>
+<p><span>Case Count: 12 (Also comes in 12 count POP)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boneyard toys</s:tag>
+    <s:tag>Douche</s:tag>
+    <s:tag>new</s:tag>
+    <s:variant>
+      <id>https://c1rb2b.com/products/61935583276</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>BY0401</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://c1rb2b.com/products/154294321196</id>
+    <published>2018-01-11T13:11:56-08:00</published>
+    <updated>2018-01-11T13:11:56-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://c1rb2b.com/products/skwert-refill-pack-12-pieces"/>
+    <title>Skwert Refill Pack (12 pieces)</title>
+    <s:type>Toy</s:type>
+    <s:vendor>Boneyard Toys</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2677/3342/products/Skwert_store_12.jpg?v=1615410291"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boneyard Toys<br>
+        <strong>Type: </strong>Toy<br>
+        <strong>Price: </strong>
+            167.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Refill Packs for Skwert POS Kit.Packages of 12.</p>
+<p><span style="font-weight: 400;">This anytime-anywhere enema adapter is specifically made for those encounters when you don't have time to fully prepare. The 1 piece threaded plastic nozzle fit most standard size water bottles. This must-have device is designed to fit in your pocket, bag, or backpack, for an on-the-go clean for those inopportune moments that sometimes pop up. Forget finding a shower, just find a bottle of water, screw it on, and you're ready to go! </span></p>
+<p><span style="font-weight: 400;">Ideal for travel, on-the-go, and everyday use. You can be assured the Skwert will get you through any unexpected opportunities time and time again. </span></p>
+<p><span style="font-weight: 400;">The 2.5" nozzle is made of smooth plastic with a large thread fitting for a non-leak fit. it has a comfortable contour tip with a one hole design. The Skwert also come with a sanitary storage/travel cap.</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Fits Most Standard Size Water Bottles</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Includes Sanitary Storage and Travel Cap</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">No Leak design</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2.5" (6.35cm) Plastic Nozzle</span></li>
+</ul>
+<p><span style="font-weight: 400;">This product is safe with all lubricants, completely hypoallergenic, non-irritating and compatible with sensitive skin. </span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">Care Instructions:</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">Wash thoroughly with mild soap and warm water or toy cleaner. Pat dry and allow product to completely air dry. Store separately.</span></p>
+<p>Weight:<span> </span>0.94<span> </span>lbs</p>
+<p>Package Dimensions:<span> 6" x 9" x 14"</span></p>
+<p><span>Case Count: 1</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boneyard toys</s:tag>
+    <s:tag>Douche</s:tag>
+    <s:variant>
+      <id>https://c1rb2b.com/products/154294321196</id>
+      <title>Default Title</title>
+      <s:price currency="USD">167.95</s:price>
+      <s:sku>BY0401-12</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://c1rb2b.com/products/61935779884</id>
+    <published>2018-01-11T10:46:09-08:00</published>
+    <updated>2018-01-11T10:46:09-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://c1rb2b.com/products/skwert-pop"/>
+    <title>Skwert POS Kit Box (12 Pieces)</title>
+    <s:type>Toy</s:type>
+    <s:vendor>Boneyard Toys</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2677/3342/products/Skwert-2.jpg?v=1615410312"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boneyard Toys<br>
+        <strong>Type: </strong>Toy<br>
+        <strong>Price: </strong>
+            177.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>This anytime-anywhere douche is specifically made for those encounters when you don’t have time to fully prepare. The silicone nozzle comes with 2 threaded adapters that fit most water bottles. This must-have man on man tool is designed to fit in your back pocket for an on-the-go clean for those inopportune moments that you just can’t pass up. Forget finding a shower hose, just find a bottle of water, screw it on, and you’re ready to go!</p>
+<p>The powerful and iconic Boneyard-branded design has a sleek 5-hole silicone nozzle and features 2 different threaded adapters that fit most water bottles. The kit also comes with a hose adapter so you can use the nozzle on your favorite shower hose. Ideal for travel, on-the-go, and everyday use. You can be assured the Skwert will get you through the punishment of your longest play sessions time and time again.</p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Fits Most Standard Size Water Bottles</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Includes Sanitary Storage and Travel Cap</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">No Leak design</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2.5'' (6.35cm) Plastic Nozzle</span></li>
+</ul>
+<p><span style="font-weight: 400;">This product is safe with all lubricants, completely hypoallergenic, non-irritating and compatible with sensitive skin. </span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">Care Instructions:</span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">Wash thoroughly with mild soap and warm water or toy cleaner. Pat dry and allow product to completely air dry. Store separately.</span></p>
+<p>Weight:<span> </span>0.94<span> </span>lbs</p>
+<p>Package Dimensions:<span> 6" x 9" x 14"</span></p>
+<p><span>Case Count: 1</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boneyard toys</s:tag>
+    <s:tag>Douche</s:tag>
+    <s:variant>
+      <id>https://c1rb2b.com/products/61935779884</id>
+      <title>Default Title</title>
+      <s:price currency="USD">177.95</s:price>
+      <s:sku>BY0404</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://c1rb2b.com/products/61935812652</id>
+    <published>2018-01-11T10:35:15-08:00</published>
+    <updated>2018-01-11T10:35:15-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://c1rb2b.com/products/daisy-pop"/>
+    <title>Daisy Douche POS Kit Box (12 Pieces)</title>
+    <s:type>Toy</s:type>
+    <s:vendor>Boneyard Toys</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2677/3342/products/Daisy_grande_315868df-c90b-41d9-9cd0-c6f75fea4ad6.jpg?v=1615410279"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boneyard Toys<br>
+        <strong>Type: </strong>Toy<br>
+        <strong>Price: </strong>
+            177.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<li><span>Fits Most Standard Size Water Bottles</span></li>
+<li><span>Includes Sanitary Storage and Travel Cap</span></li>
+<li><span>No Leak design</span></li>
+<li><span>2.5mm(6.35cm) Plastic Nozzle</span></li>
+</div>
+<div><br></div>
+<div>Go green and reuse your water bottles for another purpose! Daisy makes women's douching discrete and hassle-free, both vaginally and anally. The one piece nozzle simply screws onto most standard water bottles. This makes the Daisy perfect for on the go freshness.  Just put hygienic cap on and carry in your purse or pocket.  <br>Daisy also allows the user to mix her own formula of douche to obtain her accurate ph balance etc.<br>Daisy, easy to use, easy to clean, environmentally friendly. A must-have for women on the go that want to be fresh.</div>
+<p> </p>
+<p>Weight:<span> </span>0.94<span> </span>lbs</p>
+<p>Package Dimensions:<span> 6" x 9" x 14"</span></p>
+<p><span>Case Count: 1</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boneyard toys</s:tag>
+    <s:tag>Douche</s:tag>
+    <s:variant>
+      <id>https://c1rb2b.com/products/61935812652</id>
+      <title>Default Title</title>
+      <s:price currency="USD">177.95</s:price>
+      <s:sku>BY0405</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://c1rb2b.com/products/61935484972</id>
+    <published>2017-12-28T14:36:36-08:00</published>
+    <updated>2017-12-28T14:36:36-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://c1rb2b.com/products/skwert-water-bottle-douche"/>
+    <title>Boneyard Skwert</title>
+    <s:type>Toy</s:type>
+    <s:vendor>Boneyard Toys</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2677/3342/products/Skwert_Front_Package_grande_d8df7752-98a8-4165-afab-1ae32553ffe4.jpg?v=1615410146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boneyard Toys<br>
+        <strong>Type: </strong>Toy<br>
+        <strong>Price: </strong>
+            26.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>This anytime-anywhere douche is specifically made for those encounters when you don’t have time to fully prepare. The silicone nozzle comes with 2 threaded adapters that fit most water bottles. This must-have man on man tool is designed to fit in your back pocket for an on-the- go clean for those inopportune moments that you just can’t pass up. Forget finding a shower hose, just find a bottle of water, screw it on, and you’re ready to go!</p>
+<p>The powerful and iconic Boneyard-branded design has a sleek 5-hole silicone nozzle and features 2 different threaded adapters that fit most water bottles. The kit also comes with a hose adapter so you can use the nozzle on your favorite shower hose. Ideal for travel, on-the- go, and everyday use. You can be assured the Skwert will get you through the punishment of your longest play sessions time and time again.</p>
+<p>The 4” silicone nozzle is 100% soft touch silicone. The adapters are solid ABS construction with a small thread and large thread fitting for a non-leak fit. The kit also comes with a standard thread shower hose adapter and sanitary storage cap.</p>
+<ul>
+<li>Sanitary Storage Cap</li>
+<li>Soft 100% Soft Touch Silicone 4” (10cm) Nozzle</li>
+<li>Small Water Bottle Attachment</li>
+<li>Large Water Bottle Attachment</li>
+<li>Shower Hose Attachment</li>
+</ul>
+<p><br>This product is safe with all lubricants, completely hypoallergenic, non-irritating and compatible with sensitive skin.</p>
+<p> </p>
+<p>Care Instructions:<br>Wash thoroughly with mild soap and warm water or toy cleaner. Pat dry and allow product to completely air dry. Store separately.</p>
+<p>Weight: 0.3<span> </span>lbs</p>
+<p>Package Dimensions:<span> 6.5" X 9" X 1.75"</span></p>
+<p>Case Count: 12</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boneyard toys</s:tag>
+    <s:tag>Douche</s:tag>
+    <s:variant>
+      <id>https://c1rb2b.com/products/61935484972</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.95</s:price>
+      <s:sku>BY0400</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+</feed>
